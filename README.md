@@ -1,1 +1,0 @@
-# Gicell-e-Larissa
