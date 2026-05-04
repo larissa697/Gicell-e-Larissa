@@ -1,5 +1,5 @@
 .importante{
-     color: rgb(210, 39, 213);
+     color: rgb(215, 200, 215);
 }
 
 .imagens{
@@ -14,8 +14,15 @@ align-items: center;
 justify-content: space-around;
 }
 
-.liks{
-   display: flex
-    ;
-
+.links{
+   display: flex;
+   flex- direction: column;
 }
+
+a{
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+    border-radius: 20px;
+}
+
