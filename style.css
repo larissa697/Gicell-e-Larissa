@@ -1,13 +1,15 @@
 .importante{
      color: rgb(210, 39, 213);
-
 }
 
 .imagens{
    width: 60;
-}
+} 
 
 body{
     background-color: rgb(210, 23, 204);
     color: aquamarine;
+display: flex;
+align-items: center;
+justify-content: space-around;
 }
