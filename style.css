@@ -9,9 +9,9 @@
 body{
     background-color: rgb(210, 23, 204);
     color: aquamarine;
-display: flex;
-align-items: center;
-justify-content: space-around;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .links{
