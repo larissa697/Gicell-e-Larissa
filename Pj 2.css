@@ -10,10 +10,14 @@ body{
 
 header{
     display: flex;
-    grid-template-columns: 35;
+    grid-template-columns: 35% 36%;
+
 }
 
-section{
-    display: flex;
+.logo{
+    width: 65%;
+    border-radius: 48%;
+    height: 70%;
+    
 }
 
