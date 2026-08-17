@@ -10,6 +10,7 @@ body{
 
 header{
     display: flex;
+    grid-template-columns: 35;
 }
 
 section{
