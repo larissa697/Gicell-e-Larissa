@@ -1,6 +1,5 @@
 body{
-    background-color: rgba(170, 247, 121, 0.937);
-    .lora-<uniquifier> {
+    background-color: rgba(241, 246, 237, 0.937);
   font-family: "Lora", serif;
   font-optical-sizing: auto;
   font-weight: 400;
@@ -42,26 +41,28 @@ header{
     text-transform: uppercase;
 }
 
-.EXEMPLODETABELA-MONITORAMENTOAGRICOLA{
+.EXEMPLO-DET-ABELA-MONITORAMENTO-AGRICOLA{
     display: grid;
     grid-template-columns: 50% 50%;
           justify-content: center;
     text-transform: uppercase;
 }
 
-.Sobreoproblema{
+.Sobre-o-problema{
     display: grid;
     grid-template-columns: 50% 50%;
           justify-content: center;
     text-transform: uppercase;
 }
 
-.nossasolução{
+.nossa-solução{
     display: grid;
     grid-template-columns: 50% 50%;
           justify-content: center;
     text-transform: uppercase;
 }
+
+.fundo-verde
 
 
 
