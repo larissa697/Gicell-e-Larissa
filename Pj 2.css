@@ -21,5 +21,19 @@ header{
 
 }
 
+.funcionalidade{
+    display: grid;
+    grid-template-columns: 50% 50%;
+        justify-items: center;
+    align-items: center;
+}
+
+.Beneficios{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-image: url(Design\ sem\ nome.jpg);
+    background-repeat: no-repeat;
+}
+
 
 
