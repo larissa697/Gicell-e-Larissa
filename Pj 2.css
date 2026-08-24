@@ -33,6 +33,13 @@ header{
     grid-template-columns: 50% 50%;
     background-image: url(Design\ sem\ nome.jpg);
     background-repeat: no-repeat;
+    background-size: 98%;
+    height: 35vw;
+    width: 97;
+    justify-items: center;
+    align-items: center;
+    margin: 0;
+    text-transform: uppercase;
 }
 
 
