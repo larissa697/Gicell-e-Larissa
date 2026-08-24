@@ -42,7 +42,26 @@ header{
     text-transform: uppercase;
 }
 
-.EXEMPLO DE TABELA 
+.EXEMPLODETABELA-MONITORAMENTOAGRICOLA{
+    display: grid;
+    grid-template-columns: 50% 50%;
+          justify-content: center;
+    text-transform: uppercase;
+}
+
+.Sobreoproblema{
+    display: grid;
+    grid-template-columns: 50% 50%;
+          justify-content: center;
+    text-transform: uppercase;
+}
+
+.nossasolução{
+    display: grid;
+    grid-template-columns: 50% 50%;
+          justify-content: center;
+    text-transform: uppercase;
+}
 
 
 
