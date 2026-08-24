@@ -62,7 +62,29 @@ header{
     text-transform: uppercase;
 }
 
-.fundo-verde
+.fundo-branco{
+    background-color: white;
+    margin: 20px;
+    padding: 12px;
+    border-radius: 12px;
+    font-weight: normal;
+    width: 351px;
+    height: 279px;
+    text-align: center;
+}
+
+footer{
+    text-transform: uppercase;
+
+}
+
+.alto{
+    text-transform: lowercase;
+}
+
+.imagem{
+    width: 80;
+}
 
 
 
