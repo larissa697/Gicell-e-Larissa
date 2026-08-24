@@ -29,7 +29,7 @@ header{
 
 .Beneficios{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 25% 25%;
     background-image: url(Design\ sem\ nome.jpg);
     background-repeat: no-repeat;
     background-size: 98%;
@@ -43,7 +43,7 @@ header{
 
 .EXEMPLO-DET-ABELA-MONITORAMENTO-AGRICOLA{
     display: grid;
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 25% 25%;
           justify-content: center;
     text-transform: uppercase;
 }
