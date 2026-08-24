@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: rgba(170, 247, 121, 0.937);
     .lora-<uniquifier> {
   font-family: "Lora", serif;
   font-optical-sizing: auto;
@@ -41,6 +41,8 @@ header{
     margin: 0;
     text-transform: uppercase;
 }
+
+.EXEMPLO DE TABELA 
 
 
 
